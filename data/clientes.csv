@@ -1,0 +1,501 @@
+cliente_id,regiao,cidade
+1,Nordeste,Fortaleza
+2,Sudeste,São Paulo
+3,Sudeste,Belo Horizonte
+4,Nordeste,Salvador
+5,Sudeste,São Paulo
+6,Norte,Belém
+7,Sudeste,Rio de Janeiro
+8,Sudeste,Belo Horizonte
+9,Nordeste,Salvador
+10,Nordeste,Fortaleza
+11,Centro-Oeste,Goiânia
+12,Nordeste,Recife
+13,Sul,Porto Alegre
+14,Sul,Porto Alegre
+15,Sudeste,Rio de Janeiro
+16,Nordeste,Recife
+17,Sudeste,Rio de Janeiro
+18,Nordeste,Fortaleza
+19,Sudeste,Belo Horizonte
+20,Sul,Porto Alegre
+21,Sudeste,São Paulo
+22,Sudeste,São Paulo
+23,Sul,Curitiba
+24,Sudeste,São Paulo
+25,Sudeste,Belo Horizonte
+26,Sudeste,São Paulo
+27,Norte,Belém
+28,Sudeste,Belo Horizonte
+29,Nordeste,Salvador
+30,Nordeste,Fortaleza
+31,Nordeste,Salvador
+32,Centro-Oeste,Goiânia
+33,Sudeste,Belo Horizonte
+34,Centro-Oeste,Goiânia
+35,Sudeste,Belo Horizonte
+36,Sudeste,São Paulo
+37,Nordeste,Recife
+38,Centro-Oeste,Brasília
+39,Sudeste,Belo Horizonte
+40,Nordeste,Salvador
+41,Nordeste,Fortaleza
+42,Nordeste,Fortaleza
+43,Sudeste,Belo Horizonte
+44,Sul,Porto Alegre
+45,Sul,Florianópolis
+46,Sudeste,Belo Horizonte
+47,Sul,Curitiba
+48,Sul,Porto Alegre
+49,Sudeste,Belo Horizonte
+50,Sudeste,Belo Horizonte
+51,Sudeste,São Paulo
+52,Sudeste,Belo Horizonte
+53,Nordeste,Recife
+54,Sul,Porto Alegre
+55,Sul,Porto Alegre
+56,Sul,Porto Alegre
+57,Centro-Oeste,Goiânia
+58,Sudeste,São Paulo
+59,Sudeste,São Paulo
+60,Sudeste,Belo Horizonte
+61,Sul,Curitiba
+62,Centro-Oeste,Campo Grande
+63,Sudeste,Belo Horizonte
+64,Sudeste,São Paulo
+65,Nordeste,Recife
+66,Sudeste,Belo Horizonte
+67,Sudeste,São Paulo
+68,Sudeste,Rio de Janeiro
+69,Norte,Belém
+70,Sudeste,Belo Horizonte
+71,Sul,Curitiba
+72,Sudeste,São Paulo
+73,Sudeste,Rio de Janeiro
+74,Sul,Porto Alegre
+75,Sudeste,São Paulo
+76,Sul,Porto Alegre
+77,Sudeste,Rio de Janeiro
+78,Norte,Belém
+79,Sul,Florianópolis
+80,Nordeste,Fortaleza
+81,Sudeste,Rio de Janeiro
+82,Sudeste,Rio de Janeiro
+83,Sul,Florianópolis
+84,Nordeste,Salvador
+85,Sudeste,Belo Horizonte
+86,Sudeste,São Paulo
+87,Centro-Oeste,Campo Grande
+88,Sudeste,Rio de Janeiro
+89,Sul,Florianópolis
+90,Sudeste,Belo Horizonte
+91,Sudeste,São Paulo
+92,Sudeste,Belo Horizonte
+93,Centro-Oeste,Brasília
+94,Nordeste,Salvador
+95,Sudeste,Belo Horizonte
+96,Sul,Porto Alegre
+97,Sudeste,Rio de Janeiro
+98,Norte,Belém
+99,Sul,Porto Alegre
+100,Norte,Belém
+101,Centro-Oeste,Brasília
+102,Centro-Oeste,Campo Grande
+103,Sudeste,Belo Horizonte
+104,Nordeste,Fortaleza
+105,Centro-Oeste,Goiânia
+106,Nordeste,Fortaleza
+107,Centro-Oeste,Goiânia
+108,Nordeste,Recife
+109,Sudeste,Rio de Janeiro
+110,Centro-Oeste,Brasília
+111,Sudeste,Rio de Janeiro
+112,Sul,Porto Alegre
+113,Sul,Curitiba
+114,Sudeste,São Paulo
+115,Sudeste,Rio de Janeiro
+116,Sudeste,Belo Horizonte
+117,Nordeste,Salvador
+118,Sul,Florianópolis
+119,Sudeste,Belo Horizonte
+120,Sudeste,Rio de Janeiro
+121,Norte,Manaus
+122,Sul,Florianópolis
+123,Sul,Curitiba
+124,Sul,Florianópolis
+125,Sul,Curitiba
+126,Sudeste,Belo Horizonte
+127,Sul,Curitiba
+128,Sudeste,Rio de Janeiro
+129,Norte,Manaus
+130,Centro-Oeste,Brasília
+131,Norte,Manaus
+132,Sul,Curitiba
+133,Sul,Curitiba
+134,Sudeste,São Paulo
+135,Sudeste,Belo Horizonte
+136,Sudeste,Belo Horizonte
+137,Sudeste,São Paulo
+138,Sudeste,Rio de Janeiro
+139,Nordeste,Recife
+140,Sudeste,Belo Horizonte
+141,Norte,Belém
+142,Sudeste,Rio de Janeiro
+143,Centro-Oeste,Brasília
+144,Centro-Oeste,Brasília
+145,Nordeste,Fortaleza
+146,Sudeste,Belo Horizonte
+147,Sudeste,Rio de Janeiro
+148,Centro-Oeste,Brasília
+149,Sudeste,Belo Horizonte
+150,Sul,Curitiba
+151,Sudeste,Rio de Janeiro
+152,Nordeste,Fortaleza
+153,Sudeste,Rio de Janeiro
+154,Sudeste,Belo Horizonte
+155,Nordeste,Fortaleza
+156,Sul,Florianópolis
+157,Norte,Belém
+158,Sul,Porto Alegre
+159,Sudeste,Rio de Janeiro
+160,Nordeste,Recife
+161,Sul,Curitiba
+162,Sul,Curitiba
+163,Sudeste,São Paulo
+164,Sul,Porto Alegre
+165,Sudeste,Rio de Janeiro
+166,Sul,Florianópolis
+167,Sudeste,São Paulo
+168,Norte,Belém
+169,Sudeste,São Paulo
+170,Sudeste,Belo Horizonte
+171,Sul,Florianópolis
+172,Sudeste,Rio de Janeiro
+173,Norte,Manaus
+174,Sul,Curitiba
+175,Sudeste,Rio de Janeiro
+176,Sudeste,Rio de Janeiro
+177,Sudeste,Rio de Janeiro
+178,Nordeste,Salvador
+179,Sudeste,São Paulo
+180,Nordeste,Fortaleza
+181,Sul,Curitiba
+182,Sudeste,Rio de Janeiro
+183,Sudeste,São Paulo
+184,Sudeste,São Paulo
+185,Sudeste,São Paulo
+186,Sudeste,Rio de Janeiro
+187,Centro-Oeste,Brasília
+188,Sul,Porto Alegre
+189,Nordeste,Salvador
+190,Sul,Curitiba
+191,Sul,Curitiba
+192,Sudeste,Rio de Janeiro
+193,Centro-Oeste,Goiânia
+194,Sudeste,Rio de Janeiro
+195,Sul,Porto Alegre
+196,Sul,Curitiba
+197,Nordeste,Fortaleza
+198,Centro-Oeste,Campo Grande
+199,Nordeste,Recife
+200,Sul,Curitiba
+201,Sul,Florianópolis
+202,Nordeste,Fortaleza
+203,Nordeste,Recife
+204,Sudeste,São Paulo
+205,Sudeste,Belo Horizonte
+206,Sudeste,São Paulo
+207,Sudeste,Belo Horizonte
+208,Sudeste,Rio de Janeiro
+209,Sudeste,Rio de Janeiro
+210,Nordeste,Recife
+211,Nordeste,Salvador
+212,Sul,Porto Alegre
+213,Nordeste,Salvador
+214,Centro-Oeste,Brasília
+215,Nordeste,Salvador
+216,Sul,Curitiba
+217,Nordeste,Fortaleza
+218,Norte,Belém
+219,Sudeste,São Paulo
+220,Nordeste,Fortaleza
+221,Centro-Oeste,Brasília
+222,Sudeste,Belo Horizonte
+223,Nordeste,Salvador
+224,Sudeste,Rio de Janeiro
+225,Centro-Oeste,Goiânia
+226,Sul,Curitiba
+227,Sudeste,Belo Horizonte
+228,Sudeste,São Paulo
+229,Centro-Oeste,Brasília
+230,Sudeste,Rio de Janeiro
+231,Nordeste,Fortaleza
+232,Sul,Curitiba
+233,Sudeste,São Paulo
+234,Sul,Curitiba
+235,Nordeste,Fortaleza
+236,Nordeste,Fortaleza
+237,Sudeste,Rio de Janeiro
+238,Norte,Belém
+239,Sul,Curitiba
+240,Nordeste,Salvador
+241,Sudeste,Rio de Janeiro
+242,Norte,Manaus
+243,Nordeste,Salvador
+244,Sudeste,Belo Horizonte
+245,Sul,Porto Alegre
+246,Sudeste,Belo Horizonte
+247,Nordeste,Salvador
+248,Sul,Porto Alegre
+249,Norte,Belém
+250,Centro-Oeste,Goiânia
+251,Nordeste,Fortaleza
+252,Centro-Oeste,Brasília
+253,Nordeste,Recife
+254,Nordeste,Fortaleza
+255,Nordeste,Recife
+256,Nordeste,Recife
+257,Centro-Oeste,Campo Grande
+258,Sul,Curitiba
+259,Sudeste,Rio de Janeiro
+260,Sudeste,São Paulo
+261,Nordeste,Fortaleza
+262,Nordeste,Salvador
+263,Sudeste,São Paulo
+264,Sudeste,São Paulo
+265,Sudeste,São Paulo
+266,Sudeste,Rio de Janeiro
+267,Nordeste,Salvador
+268,Norte,Manaus
+269,Sudeste,Rio de Janeiro
+270,Centro-Oeste,Brasília
+271,Sudeste,Belo Horizonte
+272,Norte,Belém
+273,Sudeste,São Paulo
+274,Nordeste,Fortaleza
+275,Norte,Belém
+276,Sul,Florianópolis
+277,Sudeste,Rio de Janeiro
+278,Norte,Belém
+279,Sudeste,São Paulo
+280,Sudeste,Rio de Janeiro
+281,Sudeste,Rio de Janeiro
+282,Sudeste,São Paulo
+283,Norte,Belém
+284,Sul,Florianópolis
+285,Sul,Curitiba
+286,Sudeste,São Paulo
+287,Nordeste,Salvador
+288,Sudeste,Belo Horizonte
+289,Nordeste,Recife
+290,Sudeste,São Paulo
+291,Sul,Porto Alegre
+292,Sudeste,Rio de Janeiro
+293,Centro-Oeste,Brasília
+294,Sudeste,São Paulo
+295,Nordeste,Recife
+296,Norte,Manaus
+297,Sudeste,Rio de Janeiro
+298,Sudeste,Rio de Janeiro
+299,Nordeste,Salvador
+300,Nordeste,Recife
+301,Sudeste,Belo Horizonte
+302,Sudeste,Belo Horizonte
+303,Centro-Oeste,Brasília
+304,Sul,Curitiba
+305,Norte,Manaus
+306,Sul,Curitiba
+307,Centro-Oeste,Goiânia
+308,Sudeste,São Paulo
+309,Sul,Porto Alegre
+310,Sudeste,São Paulo
+311,Sul,Porto Alegre
+312,Centro-Oeste,Goiânia
+313,Sudeste,Belo Horizonte
+314,Nordeste,Recife
+315,Sul,Florianópolis
+316,Sul,Curitiba
+317,Sul,Curitiba
+318,Sudeste,Belo Horizonte
+319,Sudeste,Belo Horizonte
+320,Sudeste,Belo Horizonte
+321,Nordeste,Recife
+322,Nordeste,Fortaleza
+323,Centro-Oeste,Goiânia
+324,Sudeste,Rio de Janeiro
+325,Sul,Florianópolis
+326,Sul,Florianópolis
+327,Nordeste,Salvador
+328,Sul,Florianópolis
+329,Sudeste,Belo Horizonte
+330,Sul,Curitiba
+331,Centro-Oeste,Goiânia
+332,Centro-Oeste,Goiânia
+333,Nordeste,Salvador
+334,Norte,Manaus
+335,Sudeste,Rio de Janeiro
+336,Sul,Florianópolis
+337,Sudeste,São Paulo
+338,Sul,Florianópolis
+339,Sudeste,São Paulo
+340,Centro-Oeste,Campo Grande
+341,Sul,Porto Alegre
+342,Sul,Florianópolis
+343,Sudeste,São Paulo
+344,Sudeste,Rio de Janeiro
+345,Sudeste,São Paulo
+346,Sul,Curitiba
+347,Sul,Porto Alegre
+348,Centro-Oeste,Brasília
+349,Sul,Curitiba
+350,Sudeste,Rio de Janeiro
+351,Nordeste,Salvador
+352,Nordeste,Recife
+353,Sudeste,São Paulo
+354,Sudeste,São Paulo
+355,Sudeste,Belo Horizonte
+356,Sudeste,Belo Horizonte
+357,Sul,Porto Alegre
+358,Sudeste,Belo Horizonte
+359,Sul,Porto Alegre
+360,Nordeste,Recife
+361,Sudeste,Belo Horizonte
+362,Nordeste,Fortaleza
+363,Centro-Oeste,Campo Grande
+364,Sul,Curitiba
+365,Centro-Oeste,Goiânia
+366,Sul,Florianópolis
+367,Sudeste,Belo Horizonte
+368,Sudeste,Rio de Janeiro
+369,Sul,Curitiba
+370,Sudeste,Rio de Janeiro
+371,Sul,Curitiba
+372,Centro-Oeste,Brasília
+373,Nordeste,Fortaleza
+374,Nordeste,Recife
+375,Sudeste,Belo Horizonte
+376,Nordeste,Fortaleza
+377,Nordeste,Salvador
+378,Sul,Porto Alegre
+379,Sudeste,Rio de Janeiro
+380,Centro-Oeste,Goiânia
+381,Sudeste,Belo Horizonte
+382,Norte,Manaus
+383,Centro-Oeste,Brasília
+384,Sudeste,Rio de Janeiro
+385,Sudeste,Rio de Janeiro
+386,Sudeste,Rio de Janeiro
+387,Nordeste,Fortaleza
+388,Centro-Oeste,Campo Grande
+389,Sul,Curitiba
+390,Norte,Manaus
+391,Centro-Oeste,Campo Grande
+392,Centro-Oeste,Goiânia
+393,Norte,Belém
+394,Sudeste,Belo Horizonte
+395,Nordeste,Recife
+396,Sul,Porto Alegre
+397,Sudeste,São Paulo
+398,Sudeste,Rio de Janeiro
+399,Nordeste,Salvador
+400,Nordeste,Fortaleza
+401,Nordeste,Recife
+402,Sudeste,São Paulo
+403,Sul,Florianópolis
+404,Sul,Florianópolis
+405,Sul,Porto Alegre
+406,Sudeste,Rio de Janeiro
+407,Sul,Porto Alegre
+408,Norte,Manaus
+409,Nordeste,Salvador
+410,Sudeste,São Paulo
+411,Nordeste,Fortaleza
+412,Sul,Porto Alegre
+413,Sudeste,Rio de Janeiro
+414,Sudeste,São Paulo
+415,Nordeste,Recife
+416,Sudeste,Belo Horizonte
+417,Centro-Oeste,Campo Grande
+418,Sudeste,Rio de Janeiro
+419,Sudeste,São Paulo
+420,Sudeste,São Paulo
+421,Nordeste,Recife
+422,Nordeste,Salvador
+423,Nordeste,Fortaleza
+424,Sul,Porto Alegre
+425,Sudeste,São Paulo
+426,Sul,Porto Alegre
+427,Nordeste,Fortaleza
+428,Nordeste,Fortaleza
+429,Sul,Curitiba
+430,Nordeste,Fortaleza
+431,Sul,Curitiba
+432,Centro-Oeste,Campo Grande
+433,Sul,Curitiba
+434,Centro-Oeste,Campo Grande
+435,Sul,Porto Alegre
+436,Centro-Oeste,Campo Grande
+437,Nordeste,Recife
+438,Sudeste,Belo Horizonte
+439,Centro-Oeste,Brasília
+440,Sul,Florianópolis
+441,Sul,Curitiba
+442,Sudeste,São Paulo
+443,Nordeste,Fortaleza
+444,Nordeste,Recife
+445,Sudeste,Rio de Janeiro
+446,Nordeste,Fortaleza
+447,Nordeste,Recife
+448,Nordeste,Fortaleza
+449,Sudeste,São Paulo
+450,Sudeste,Belo Horizonte
+451,Nordeste,Salvador
+452,Sul,Curitiba
+453,Nordeste,Fortaleza
+454,Sul,Porto Alegre
+455,Sudeste,São Paulo
+456,Nordeste,Recife
+457,Centro-Oeste,Goiânia
+458,Sudeste,Belo Horizonte
+459,Sul,Porto Alegre
+460,Sul,Porto Alegre
+461,Sul,Porto Alegre
+462,Sudeste,São Paulo
+463,Sudeste,Belo Horizonte
+464,Centro-Oeste,Brasília
+465,Centro-Oeste,Campo Grande
+466,Sudeste,Belo Horizonte
+467,Sul,Porto Alegre
+468,Sudeste,Rio de Janeiro
+469,Centro-Oeste,Goiânia
+470,Centro-Oeste,Brasília
+471,Sudeste,São Paulo
+472,Sudeste,Rio de Janeiro
+473,Nordeste,Salvador
+474,Centro-Oeste,Campo Grande
+475,Sudeste,Belo Horizonte
+476,Sudeste,São Paulo
+477,Nordeste,Recife
+478,Nordeste,Salvador
+479,Sul,Florianópolis
+480,Sudeste,São Paulo
+481,Centro-Oeste,Goiânia
+482,Sudeste,Rio de Janeiro
+483,Sul,Florianópolis
+484,Sul,Florianópolis
+485,Sudeste,Belo Horizonte
+486,Sudeste,São Paulo
+487,Sul,Porto Alegre
+488,Sudeste,São Paulo
+489,Sudeste,Belo Horizonte
+490,Sudeste,Rio de Janeiro
+491,Sudeste,São Paulo
+492,Sul,Curitiba
+493,Norte,Manaus
+494,Sul,Porto Alegre
+495,Sudeste,São Paulo
+496,Sudeste,Belo Horizonte
+497,Sul,Curitiba
+498,Sudeste,Belo Horizonte
+499,Sudeste,Belo Horizonte
+500,Sudeste,Rio de Janeiro

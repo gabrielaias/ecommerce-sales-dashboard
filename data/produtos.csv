@@ -1,0 +1,26 @@
+produto_id,nome_produto,categoria,preco_unitario
+1,Fone de Ouvido,Eletrônicos,218.58
+2,Smartwatch,Eletrônicos,431.76
+3,Carregador Portátil,Eletrônicos,350.84
+4,Caixa de Som,Eletrônicos,301.5
+5,Mouse Gamer,Eletrônicos,137.73
+6,Camiseta,Moda,68.08
+7,Tênis Casual,Moda,50.46
+8,Jaqueta Jeans,Moda,195.91
+9,Boné,Moda,148.2
+10,Mochila,Moda,167.45
+11,Luminária LED,Casa & Decoração,33.09
+12,Organizador Multiuso,Casa & Decoração,175.49
+13,Jogo de Panelas,Casa & Decoração,154.87
+14,Tapete,Casa & Decoração,61.85
+15,Vaso Decorativo,Casa & Decoração,57.27
+16,Kit Skincare,Beleza,47.93
+17,Perfume,Beleza,63.03
+18,Secador de Cabelo,Beleza,90.59
+19,Kit Maquiagem,Beleza,78.99
+20,Hidratante Corporal,Beleza,61.4
+21,Tênis de Corrida,Esporte,570.07
+22,Garrafa Térmica,Esporte,168.57
+23,Kit Halteres,Esporte,298.32
+24,Bicicleta Ergométrica,Esporte,361.41
+25,Tapete de Yoga,Esporte,437.66
