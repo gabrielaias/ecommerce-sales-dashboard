@@ -2,11 +2,11 @@
 
 Dashboard interativo para análise de performance de vendas, desenvolvido com **Python, SQL e Streamlit**.
 
-🔗 **Demo ao vivo**: _adicionar link após deploy no Streamlit Community Cloud_
+🔗 **Demo ao vivo**: [gabriel-sales-dashboard.streamlit.app](https://gabriel-sales-dashboard.streamlit.app)
 
 ## 📸 Preview
 
-<!-- Adicione aqui um print do dashboard em funcionamento -->
+![Dashboard de Análise de Vendas](./screenshots/dashboard-preview.png)
 
 ## 💡 Sobre o projeto
 
