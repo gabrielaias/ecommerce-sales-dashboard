@@ -6,7 +6,7 @@ Dashboard interativo para análise de performance de vendas, desenvolvido com **
 
 ## 📸 Preview
 
-![Dashboard de Análise de Vendas](./screenshots/dashboard-preview.png)
+![Dashboard de Análise de Vendas](./dashboard-preview.png)
 
 ## 💡 Sobre o projeto
 
